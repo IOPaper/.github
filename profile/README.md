@@ -12,4 +12,6 @@
 -->
 
 
-Fuck u 
+### what is _IO.Paper_?
+
+IO.Paper is a general-purpose article storage, it can be used as the backend of your blog website, and it can also be used as the backend of your desktop note-taking application
