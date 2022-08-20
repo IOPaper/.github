@@ -12,6 +12,10 @@
 -->
 
 
+### 什么是 _IO.Paper_？
+
+IO.Paper是一个通用的内容储存容器，它可以作为博客网站的后端，为网页用户提供服务，也可以作为桌面笔记应用的后端。
+
 ### what is _IO.Paper_?
 
-IO.Paper is a general-purpose article storage, it can be used as the backend of your blog website, and it can also be used as the backend of your desktop note-taking application
+Paper is a general-purpose content storage container that can be used as a backend for blog sites, serving web users, or as a backend for desktop note taking applications.
