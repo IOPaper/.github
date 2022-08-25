@@ -23,3 +23,6 @@ IO.Paper是一个通用的内容储存容器，它可以作为博客网站的后
 Paper is a general-purpose content storage container that can be used as a backend for blog sites, serving web users, or as a backend for desktop note taking applications.
 
 example: [iopaper.github.io](https://iopaper.github.io)
+
+__Why do all projects use the GPLV3 license?__  
+i like that
