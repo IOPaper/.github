@@ -18,8 +18,8 @@ IO.Paper是一个通用的内容储存容器，它可以作为博客网站的后
 
 示例: [iopaper.github.io](https://iopaper.github.io)
 
-__为什么所有项目都使用GPLV3协议?__  
-我用什么协议你都要管?😅
+__为什么所有项目都使用GPLV3许可?__  
+我用什么许可你都要管?😅
 
 ### what is _IO.Paper_?
 
